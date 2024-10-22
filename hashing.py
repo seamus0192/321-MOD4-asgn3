@@ -17,7 +17,7 @@ def main():
 
     # PART C -------------------------------------------------
     # can be any value between 8 and 50 bits
-    truncate_bits = 8
+    truncate_bits = 20
 
     # Finding weak collision (H(m0) = H(m1))
     print("finding weak collision for m0...")
